@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love participating in hackathons, where I turn ideas into code under pressure!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
