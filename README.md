@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **C, C++, Java and Python**
 
-- 📫 How to reach me **mr_sumitsingh@outlook.com**
-
 - ⚡ Fun fact **I love participating in hackathons, where I turn ideas into code under pressure!**
 
 <h3 align="left">Connect with me:</h3>
